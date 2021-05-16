@@ -1,0 +1,18 @@
+﻿  Main.cpp
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(22,33): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(29,34): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(29,16): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(58,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(59,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(68,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(69,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(70,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(71,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(73,70): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(73,52): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(73,26): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(73,13): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(86,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(106,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Main.cpp(107,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Лаба №20 Бинарное дерево.vcxproj -> C:\Users\Арина\source\repos\Лаба №20 Бинарное дерево\Debug\Лаба №20 Бинарное дерево.exe
